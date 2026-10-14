@@ -4,12 +4,12 @@ Client launcher and dedicated server tool for playing Mount & Blade II: Bannerlo
 
 I made these tools for ease of access. I am not affiliated with the AD1259 team. They are here so hosting and playing AD1259 with friends is easier.
 
-Tools **v1.0.1**. Works with Bannerlord **1.4.8**, AD1259 **1.4.6**, Workshop Coop **0.1.6** and RBM **4.5.4**.
+Tools **v1.0.2**. Works with Bannerlord **1.4.8**, AD1259 **1.4.6**, Workshop Coop **0.1.6** and RBM **4.5.4**.
 
 Download the programs from the [latest release](https://github.com/Coodsz/Coodsz-AD1259/releases/latest).
 
-- Players: `Coodsz-AD1259-Client-Launcher-v1.0.1.zip`
-- The person hosting also downloads `Coodsz-AD1259-Server-v1.0.1.zip`
+- Players: `Coodsz-AD1259-Client-Launcher-v1.0.2.zip`
+- The person hosting also downloads `Coodsz-AD1259-Server-v1.0.2.zip`
 
 Both are single programs, no install needed. Unzip each to its own folder and run the exe. Later updates show an **Install update** button inside the tool.
 
