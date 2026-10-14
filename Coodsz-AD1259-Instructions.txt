@@ -1,0 +1,57 @@
+Coodsz AD1259 tools v1.0.0
+For Bannerlord 1.4.8, AD1259 1.4.6, Workshop Coop 0.1.6 and RBM 4.5.4.
+AD1259 coop fixes by SkyApolo.
+
+
+PART 1 - EVERY PLAYER (and the host)
+
+1. Download Coodsz-AD1259-Client-Launcher-v1.0.0.zip and unzip it to its own folder.
+2. Open "Coodsz AD1259 Client Launcher.exe".
+3. The Mods list shows every mod you need. For each one that is not Ready, click Get it:
+   - Steam Workshop mods: click Subscribe and wait for Steam to download it.
+   - Nexus mods: download the exact version shown and unzip it into the game's Modules folder
+     (Module folder button opens it).
+   - Expanded Armoury: also download the file called FIX from its Nexus Files tab and copy it over
+     Modules\ExpandedArmouryBL.
+4. Click Unblock DLLs.
+5. Click Check mods. Every row must say Ready. "Two copies" means a mod is in both the Workshop and
+   the Modules folder: keep one.
+
+
+PART 2 - JOIN
+
+1. Steam must be running and signed in.
+2. Direct: type the host's address and port (usually 4200). Steam lobby: type the host's Steam name.
+3. Type the password if the server has one.
+4. Leave the RBM box as it is (Campaign off).
+5. Click Connect.
+
+The first start takes a long time, 20 minutes or more. The game builds shaders and downloads the
+server's world. The game window can go white or say Not Responding. That is normal. The launcher shows
+a box that says the game is still loading and still working. Do not close the game while it says that.
+
+If the game closes while starting, click Connect again. A second start usually gets past it.
+If it keeps closing, click Save all logs to one zip and send that zip.
+
+
+PART 3 - HOST
+
+1. Do PART 1 on the hosting PC first. The server copies its mods from the same Workshop and Modules
+   folders.
+2. Subscribe to Bannerlord Coop 0.1.6 on the Workshop. It includes the dedicated server.
+3. Download Coodsz-AD1259-Server-v1.0.0.zip and unzip it to its own folder.
+4. Open "Coodsz AD1259 Server.exe". It opens on the locked setup "AD1259 1.4.6 (locked)".
+5. Make a new save (+ New save) or pick one, set a password if you want one, then click Start server.
+6. Wait until the log says SERVING. A brand new AD1259 world takes a few minutes to build the first time.
+7. Players need your address and UDP port 4200 (forward it on your router), or your Steam name for
+   Steam lobby.
+
+The server tool checks every mod version on Start and tells you exactly what is missing or wrong.
+It adds SkyApolo's AD1259 - Coop Compatibility module by itself and keeps RBM's Campaign part off.
+
+
+KNOWN ISSUES
+
+- Some NVIDIA RTX 50 series cards show a black campaign map ground. It happens in singleplayer too.
+- If a graphics setting in the game says "Cannot create config data", close the game and open it
+  with the launcher again. The launcher keeps that settings file writable.
