@@ -57,3 +57,12 @@ If the game closes while starting, click **Connect** again. A second start usual
 - Keep RBM's **Campaign** part off on the server and every player. RBM's economy empties town shops and stops workshops on a Coop server. Both tools turn it off by default.
 
 How to install, join and host is in `Coodsz-AD1259-Instructions.txt`.
+
+
+## License
+
+These tools are free to use for playing and hosting Bannerlord Coop with your friends and community. All rights reserved by Coodsz.
+
+Without written permission you may not use them to make money (paid servers, server rental, paid or donation locked access, selling or bundling), decompile or copy how they work to make a similar tool, upload them anywhere other than these GitHub releases, or share changed copies. To ask, contact Coodsz on Discord (Coodsz) or on GitHub (github.com/Coodsz).
+
+The full text is in [LICENSE.txt](LICENSE.txt). Code from other people keeps its own license (see THIRD-PARTY-NOTICES.md where present), and bundled mods stay under their authors' terms.
