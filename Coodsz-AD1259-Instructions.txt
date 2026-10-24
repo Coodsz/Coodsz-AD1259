@@ -1,13 +1,15 @@
-Coodsz AD1259 tools v1.0.8
+Coodsz AD1259 tools
 For Bannerlord 1.4.8, AD1259 1.4.6, Workshop Coop 0.1.6 and RBM 4.5.4.
 AD1259 coop fixes by SkyApolo.
 
 
 PART 1 - EVERY PLAYER (and the host)
 
-1. Download Coodsz-AD1259-Client-Launcher-v1.0.8.zip and unzip it to its own folder.
+1. Download Coodsz-AD1259-Client-Launcher-vX.Y.Z.zip from the latest release and unzip it to its own
+   folder. The latest release is at https://github.com/Coodsz/Coodsz-AD1259/releases/latest
 2. Open "Coodsz AD1259 Client Launcher.exe".
-3. The Mods list shows every mod you need. For each one that is not Ready, click Get it:
+3. The Mods list shows every mod you need. Get all missing subscribes to the missing Workshop mods
+   for you. For each one that is not Ready, you can also click Get it:
    - Steam Workshop mods: click Subscribe and wait for Steam to download it.
    - Nexus mods: download the exact version shown and unzip it into the game's Modules folder
      (Module folder button opens it).
@@ -31,7 +33,8 @@ server's world. The game window can go white or say Not Responding. That is norm
 a box that says the game is still loading and still working. Do not close the game while it says that.
 
 If the game closes while starting, click Connect again. A second start usually gets past it.
-If it keeps closing, click Save all logs to one zip and send that zip.
+If it keeps closing, click Send my logs (or Send crash report on the red bar) and post the short code
+it gives you in Discord. You can add a note and screenshots if you want.
 
 
 PART 3 - HOST
@@ -39,7 +42,7 @@ PART 3 - HOST
 1. Do PART 1 on the hosting PC first. The server copies its mods from the same Workshop and Modules
    folders.
 2. Subscribe to Bannerlord Coop 0.1.6 on the Workshop. It includes the dedicated server.
-3. Download Coodsz-AD1259-Server-v1.0.8.zip and unzip it to its own folder.
+3. Download Coodsz-AD1259-Server-vX.Y.Z.zip from the latest release and unzip it to its own folder.
 4. Open "Coodsz AD1259 Server.exe". It opens on the locked setup "AD1259 1.4.6 (locked)".
 5. Make a new save (+ New save) or pick one, set a password if you want one, then click Start server.
 6. Wait until the log says SERVING. A brand new AD1259 world takes a few minutes to build the first time.
