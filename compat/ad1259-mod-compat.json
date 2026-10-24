@@ -1,0 +1,25 @@
+{
+  "kind": "CoodszAd1259Compat",
+  "schemaVersion": 1,
+  "ad1259": "1.4.6",
+  "game": "v1.4.8",
+  "coop": "v0.1.6",
+  "tested": "2026-10-13",
+  "updated": "2026-10-24",
+  "mods": [
+    { "id": "Bannerlord.Harmony", "name": "Harmony", "version": "v2.4.2.248", "workshopId": "2859188632", "tag": "pack" },
+    { "id": "Bannerlord.ButterLib", "name": "ButterLib", "version": "v2.12.0", "workshopId": "2859232415", "tag": "pack" },
+    { "id": "Bannerlord.UIExtenderEx", "name": "UIExtenderEx", "version": "v3.0.3", "workshopId": "2859222409", "tag": "pack" },
+    { "id": "Bannerlord.MBOptionScreen", "name": "Mod Configuration Menu v5", "version": "v5.12.3", "workshopId": "2859238197", "tag": "pack" },
+    { "id": "RBM", "name": "Realistic Battle Mod", "version": "v4.5.4", "workshopId": "2859251492", "tag": "pack" },
+    { "id": "ExpandedArmouryBL", "name": "Expanded Armoury", "version": "e1.5.2", "nexusId": "11487", "tag": "pack", "note": "Also install the FIX file from the same Nexus page (EBA.TableauCrashFix.dll). Without it the armour can crash the game." },
+    { "id": "swadian armoury", "name": "Swadian Armoury", "version": "v1.0.0", "workshopId": "2875090166", "tag": "pack" },
+    { "id": "OpenSourceArmory", "name": "Open Source Armory", "version": "v2.0.0", "workshopId": "3011479883", "tag": "pack" },
+    { "id": "OpenSourceSaddlery", "name": "Open Source Saddlery", "version": "v2.0.0", "workshopId": "3010990914", "tag": "pack" },
+    { "id": "OpenSourceWeaponry", "name": "Open Source Weaponry", "version": "v2.0.1", "workshopId": "3010984416", "tag": "pack" },
+    { "id": "Templar Armor", "name": "Templar Armor", "version": "v1.0.3", "nexusId": "4736", "tag": "pack", "note": "Templar Armor and Templar Equipment come from the same Nexus page." },
+    { "id": "Templar Equipment", "name": "Templar Equipment", "version": "v1.0.3", "nexusId": "4736", "tag": "pack", "note": "Templar Armor and Templar Equipment come from the same Nexus page." },
+    { "id": "SettlementIconRedesign", "name": "Settlement Icons - Redesign", "version": "v1.1.4", "nexusId": "2717", "tag": "pack" },
+    { "id": "AD1259", "name": "Anno Domini 1259", "version": "v1.4.6", "nexusId": "6723", "tag": "pack", "note": "The AD1259 tools add SkyApolo's AD1259 Coop Compatibility module on the server and his Client Stability module for players, bundled with permission." }
+  ]
+}
