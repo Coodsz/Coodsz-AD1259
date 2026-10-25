@@ -26,7 +26,8 @@ PART 2 - JOIN
 2. Direct: type the host's address and port (usually 4200). Steam lobby: type the host's Steam name.
 3. Type the password if the server has one.
 4. Leave the RBM box as it is (Campaign off).
-5. Click Connect.
+5. Click Connect. With Direct it first checks that the server answers. When nothing answers, or the
+   address is your own PC, VPN or router, it says so before the game starts and offers Steam lobby.
 
 The first start takes a long time, 20 minutes or more. The game builds shaders and downloads the
 server's world. The game window can go white or say Not Responding. That is normal. The launcher shows
@@ -47,7 +48,8 @@ PART 3 - HOST
 5. Make a new save (+ New save) or pick one, set a password if you want one, then click Start server.
 6. Wait until the log says SERVING. A brand new AD1259 world takes a few minutes to build the first time.
 7. Players need your address and UDP port 4200 (forward it on your router), or your Steam name for
-   Steam lobby.
+   Steam lobby. When your internet provider shares your address, the server tool turns on Steam lobby
+   and Copy invite sends friends to Steam lobby first.
 
 The server tool checks every mod version on Start and tells you exactly what is missing or wrong.
 It adds SkyApolo's AD1259 - Coop Compatibility module by itself and keeps RBM's Campaign part off.
