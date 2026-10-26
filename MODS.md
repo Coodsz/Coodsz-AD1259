@@ -32,7 +32,7 @@ With a GitHub account you can also use the [report form](https://github.com/Cood
 | [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2859188632) | In the pack | v2.4.2.248 |  |  |  |
 | [ButterLib](https://steamcommunity.com/sharedfiles/filedetails/?id=2859232415) | In the pack | v2.12.0 |  |  |  |
 | [UIExtenderEx](https://steamcommunity.com/sharedfiles/filedetails/?id=2859222409) | In the pack | v3.0.3 |  |  |  |
-| [Mod Configuration Menu v5](https://steamcommunity.com/sharedfiles/filedetails/?id=2859238197) | In the pack | v5.12.3 |  |  |  |
+| [Mod Configuration Menu v5](https://www.nexusmods.com/mountandblade2bannerlord/mods/612) | In the pack | v5.12.3 |  |  |  |
 | [Realistic Battle Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2859251492) | In the pack | v4.5.4 |  |  |  |
 | [Expanded Armoury](https://www.nexusmods.com/mountandblade2bannerlord/mods/11487) | In the pack | e1.5.2 |  |  | Also install the FIX file from the same Nexus page (EBA.TableauCrashFix.dll). Without it the armour can crash the game. |
 | [Swadian Armoury](https://steamcommunity.com/sharedfiles/filedetails/?id=2875090166) | In the pack | v1.0.0 |  |  |  |
