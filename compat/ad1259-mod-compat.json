@@ -10,7 +10,7 @@
     { "id": "Bannerlord.Harmony", "name": "Harmony", "version": "v2.4.2.248", "workshopId": "2859188632", "tag": "pack" },
     { "id": "Bannerlord.ButterLib", "name": "ButterLib", "version": "v2.12.0", "workshopId": "2859232415", "tag": "pack" },
     { "id": "Bannerlord.UIExtenderEx", "name": "UIExtenderEx", "version": "v3.0.3", "workshopId": "2859222409", "tag": "pack" },
-    { "id": "Bannerlord.MBOptionScreen", "name": "Mod Configuration Menu v5", "version": "v5.12.3", "workshopId": "2859238197", "tag": "pack" },
+    { "id": "Bannerlord.MBOptionScreen", "name": "Mod Configuration Menu v5", "version": "v5.12.3", "nexusId": "612", "tag": "pack" },
     { "id": "RBM", "name": "Realistic Battle Mod", "version": "v4.5.4", "workshopId": "2859251492", "tag": "pack" },
     { "id": "ExpandedArmouryBL", "name": "Expanded Armoury", "version": "e1.5.2", "nexusId": "11487", "tag": "pack", "note": "Also install the FIX file from the same Nexus page (EBA.TableauCrashFix.dll). Without it the armour can crash the game." },
     { "id": "swadian armoury", "name": "Swadian Armoury", "version": "v1.0.0", "workshopId": "2875090166", "tag": "pack" },
