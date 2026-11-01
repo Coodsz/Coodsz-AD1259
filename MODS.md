@@ -1,6 +1,6 @@
 # AD1259 mod list
 
-The mods of the AD1259 Coop pack (AD1259 1.4.6, Bannerlord v1.4.8, Coop v0.1.6) and what players report about them.
+The mods of the AD1259 Coop pack (AD1259 1.4.6, Bannerlord v1.4.8, Coop v0.1.7 or v0.1.6) and what players report about them.
 This page is made from [compat/ad1259-mod-compat.json](compat/ad1259-mod-compat.json) and is written
 again on its own whenever a player report is counted.
 
@@ -22,7 +22,7 @@ a pack mod mostly says which mod a crash named. **Last report** is the day of th
 
 ## How to report a mod
 
-Click **Report a mod** at the top of the Coodsz AD1259 Client Launcher (or **Report** on the bar after a
+Click **Report a mod** on the Logs and help page of the Coodsz AD1259 Client Launcher (or **Report** on the bar after a
 game) and pick Works or Broken for each mod. No GitHub account is needed. A report counts here about a
 day later.
 With a GitHub account you can also use the [report form](https://github.com/Coodsz/Coodsz-AD1259/issues/new?template=mod-compat.yml).
