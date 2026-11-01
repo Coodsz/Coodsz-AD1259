@@ -51,7 +51,7 @@ body:
     id: coop_version
     attributes:
       label: Coop version
-      placeholder: "v0.1.6"
+      placeholder: "v0.1.7"
   - type: input
     id: game_version
     attributes:
