@@ -4,7 +4,7 @@ Client launcher and dedicated server tool for playing Mount & Blade II: Bannerlo
 
 I made these tools for ease of access. I am not affiliated with the AD1259 team. They are here so hosting and playing AD1259 with friends is easier.
 
-Works with Bannerlord **1.4.8**, AD1259 **1.4.6**, Workshop Coop **0.1.6** and RBM **4.5.4**.
+Works with Bannerlord **1.4.8**, AD1259 **1.4.6**, Workshop Coop **0.1.7** and RBM **4.5.4**.
 
 ## What it looks like
 
@@ -57,7 +57,7 @@ Every player and the host need exactly these mods and versions. They are not inc
 | Templar Armor + Templar Equipment | 1.0.3 | [Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/4736) (not the NBR version) |
 | Settlement Icons - Redesign | 1.1.4 | [Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/2717) |
 | Anno Domini 1259 | 1.4.6 | [Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/6723) |
-| Bannerlord Coop | 0.1.6 | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3770450698) |
+| Bannerlord Coop | 0.1.7 | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3770450698) |
 
 Nexus mods go in the game's `Modules` folder. For Expanded Armoury, also download the file called **FIX** from its Files tab and copy it over `Modules\ExpandedArmouryBL`.
 

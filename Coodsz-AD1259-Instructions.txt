@@ -1,5 +1,5 @@
 Coodsz AD1259 tools
-For Bannerlord 1.4.8, AD1259 1.4.6, Workshop Coop 0.1.6 and RBM 4.5.4.
+For Bannerlord 1.4.8, AD1259 1.4.6, Workshop Coop 0.1.7 and RBM 4.5.4.
 AD1259 coop fixes by SkyApolo.
 
 
@@ -42,7 +42,7 @@ PART 3 - HOST
 
 1. Do PART 1 on the hosting PC first. The server copies its mods from the same Workshop and Modules
    folders.
-2. Subscribe to Bannerlord Coop 0.1.6 on the Workshop. It includes the dedicated server.
+2. Subscribe to Bannerlord Coop 0.1.7 on the Workshop. It includes the dedicated server.
 3. Download Coodsz-AD1259-Tools-vX.Y.Z.zip from the latest release and unzip it to its own folder (the same zip as in Part 1).
 4. Open "Coodsz AD1259 Server Tool.exe". It opens on the locked setup "AD1259 1.4.6 (locked)".
 5. Make a new save (+ New save) or pick one, set a password if you want one, then click Start server.
