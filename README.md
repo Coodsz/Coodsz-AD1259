@@ -6,6 +6,20 @@ I made these tools for ease of access. I am not affiliated with the AD1259 team.
 
 Works with Bannerlord **1.4.8**, AD1259 **1.4.6**, Workshop Coop **0.1.6** and RBM **4.5.4**.
 
+## What it looks like
+
+![Coodsz AD1259 Server Tool dashboard](images/server-tool-dashboard.png)
+
+The Server Tool dashboard. Start the server here and see the mods, versions and the addresses your friends can use.
+
+![Coodsz AD1259 Client Launcher Play page](images/client-launcher-play.png)
+
+The Client Launcher Play page. It checks Bannerlord, AD1259, RBM and Coop, says what to fix, then joins the server.
+
+![Coodsz AD1259 Server Tool Mods page](images/server-tool-mods.png)
+
+The Server Tool Mods page, with the load order and how each mod works in Coop.
+
 Download the programs from the [latest release](https://github.com/Coodsz/Coodsz-AD1259/releases/latest).
 
 - Players: `Coodsz-AD1259-Client-Launcher-vX.Y.Z.zip` from the latest release
