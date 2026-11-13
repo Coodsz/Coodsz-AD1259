@@ -29,19 +29,19 @@ With a GitHub account you can also use the [report form](https://github.com/Cood
 
 | Mod | Status | Version | Players | Last report | Note |
 | --- | --- | --- | --- | --- | --- |
-| [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2859188632) | In the pack | v2.4.2.248 |  |  |  |
-| [ButterLib](https://steamcommunity.com/sharedfiles/filedetails/?id=2859232415) | In the pack | v2.12.0 |  |  |  |
-| [UIExtenderEx](https://steamcommunity.com/sharedfiles/filedetails/?id=2859222409) | In the pack | v3.0.3 |  |  |  |
-| [Mod Configuration Menu v5](https://www.nexusmods.com/mountandblade2bannerlord/mods/612) | In the pack | v5.12.3 |  |  |  |
-| [Realistic Battle Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2859251492) | In the pack | v4.5.4 |  |  |  |
-| [Expanded Armoury](https://www.nexusmods.com/mountandblade2bannerlord/mods/11487) | In the pack | e1.5.2 | 0 works, 1 broken | 2026-11-11 | Also install the FIX file from the same Nexus page (EBA.TableauCrashFix.dll). Without it the armour can crash the game. |
-| [Swadian Armoury](https://steamcommunity.com/sharedfiles/filedetails/?id=2875090166) | In the pack | v1.0.0 |  |  |  |
-| [Open Source Armory](https://steamcommunity.com/sharedfiles/filedetails/?id=3011479883) | In the pack | v2.0.0 |  |  |  |
-| [Open Source Saddlery](https://steamcommunity.com/sharedfiles/filedetails/?id=3010990914) | In the pack | v2.0.0 |  |  |  |
-| [Open Source Weaponry](https://steamcommunity.com/sharedfiles/filedetails/?id=3010984416) | In the pack | v2.0.1 |  |  |  |
-| [Templar Armor](https://www.nexusmods.com/mountandblade2bannerlord/mods/4736) | In the pack | v1.0.3 |  |  | Templar Armor and Templar Equipment come from the same Nexus page. |
-| [Templar Equipment](https://www.nexusmods.com/mountandblade2bannerlord/mods/4736) | In the pack | v1.0.3 |  |  | Templar Armor and Templar Equipment come from the same Nexus page. |
-| [Settlement Icons - Redesign](https://www.nexusmods.com/mountandblade2bannerlord/mods/2717) | In the pack | v1.1.4 |  |  |  |
-| [Anno Domini 1259](https://www.nexusmods.com/mountandblade2bannerlord/mods/6723) | In the pack | v1.4.6 |  |  | The AD1259 tools add SkyApolo's AD1259 Coop Compatibility module on the server and his Client Stability module for players, bundled with permission. |
+| [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2859188632) | In the pack | v2.4.2.248 | 1 works, 0 broken | 2026-11-12 |  |
+| [ButterLib](https://steamcommunity.com/sharedfiles/filedetails/?id=2859232415) | In the pack | v2.12.0 | 1 works, 0 broken | 2026-11-12 |  |
+| [UIExtenderEx](https://steamcommunity.com/sharedfiles/filedetails/?id=2859222409) | In the pack | v3.0.3 | 1 works, 0 broken | 2026-11-12 |  |
+| [Mod Configuration Menu v5](https://www.nexusmods.com/mountandblade2bannerlord/mods/612) | In the pack | v5.12.3 | 1 works, 0 broken | 2026-11-12 |  |
+| [Realistic Battle Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2859251492) | In the pack | v4.5.4 | 1 works, 0 broken | 2026-11-12 |  |
+| [Expanded Armoury](https://www.nexusmods.com/mountandblade2bannerlord/mods/11487) | In the pack | e1.5.2 | 1 works, 1 broken | 2026-11-12 | Also install the FIX file from the same Nexus page (EBA.TableauCrashFix.dll). Without it the armour can crash the game. |
+| [Swadian Armoury](https://steamcommunity.com/sharedfiles/filedetails/?id=2875090166) | In the pack | v1.0.0 | 1 works, 0 broken | 2026-11-12 |  |
+| [Open Source Armory](https://steamcommunity.com/sharedfiles/filedetails/?id=3011479883) | In the pack | v2.0.0 | 1 works, 0 broken | 2026-11-12 |  |
+| [Open Source Saddlery](https://steamcommunity.com/sharedfiles/filedetails/?id=3010990914) | In the pack | v2.0.0 | 1 works, 0 broken | 2026-11-12 |  |
+| [Open Source Weaponry](https://steamcommunity.com/sharedfiles/filedetails/?id=3010984416) | In the pack | v2.0.1 | 1 works, 0 broken | 2026-11-12 |  |
+| [Templar Armor](https://www.nexusmods.com/mountandblade2bannerlord/mods/4736) | In the pack | v1.0.3 | 1 works, 0 broken | 2026-11-12 | Templar Armor and Templar Equipment come from the same Nexus page. |
+| [Templar Equipment](https://www.nexusmods.com/mountandblade2bannerlord/mods/4736) | In the pack | v1.0.3 | 1 works, 0 broken | 2026-11-12 | Templar Armor and Templar Equipment come from the same Nexus page. |
+| [Settlement Icons - Redesign](https://www.nexusmods.com/mountandblade2bannerlord/mods/2717) | In the pack | v1.1.4 | 1 works, 0 broken | 2026-11-12 |  |
+| [Anno Domini 1259](https://www.nexusmods.com/mountandblade2bannerlord/mods/6723) | In the pack | v1.4.6 | 1 works, 0 broken | 2026-11-12 | The AD1259 tools add SkyApolo's AD1259 Coop Compatibility module on the server and his Client Stability module for players, bundled with permission. |
 
 14 mods. List updated 2026-10-24.
