@@ -22,12 +22,13 @@ The Server Tool Mods page, with the load order and how each mod works in Coop.
 
 Download the programs from the [latest release](https://github.com/Coodsz/Coodsz-AD1259/releases/latest).
 
-- Players: `Coodsz-AD1259-Client-Launcher-vX.Y.Z.zip` from the latest release
-- The person hosting also downloads `Coodsz-AD1259-Server-vX.Y.Z.zip` from the latest release
+- Everyone downloads `Coodsz-AD1259-Tools-vX.Y.Z.zip` from the latest release. It holds both programs.
+- Players run `Coodsz AD1259 Client Launcher.exe`
+- The person hosting also runs `Coodsz AD1259 Server Tool.exe`
 
-The X.Y.Z is the version number of the latest release. Always take the newest files.
+The X.Y.Z is the version number of the latest release. Always take the newest file. The other two zips on the release page are only used by older versions to update themselves.
 
-Both are single programs, no install needed. Unzip each to its own folder and run the exe. Later updates show an **Install update** button inside the tool.
+Both are single programs, no install needed. Unzip the zip to its own folder and run the exe. Later updates show an **Install update** button inside the tool.
 
 ## Thanks
 
@@ -47,7 +48,7 @@ Every player and the host need exactly these mods and versions. They are not inc
 | Harmony | 2.4.2.248 | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2859188632) |
 | ButterLib | 2.12.0 | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2859232415) |
 | UIExtenderEx | 3.0.3 | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2859222409) |
-| Mod Configuration Menu v5 | 5.12.3 | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2859238197) |
+| Mod Configuration Menu v5 | 5.13.1 (5.12.3 also works) | [Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/612) |
 | Realistic Battle Mod | 4.5.4 | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2859251492) |
 | Expanded Armoury | e1.5.2 + the FIX file | [Nexus](https://www.nexusmods.com/mountandblade2bannerlord/mods/11487) |
 | Swadian Armoury | 1.0.0 | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2875090166) |
