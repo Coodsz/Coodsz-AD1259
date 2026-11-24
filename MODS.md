@@ -4,6 +4,8 @@ The mods of the AD1259 Coop pack (AD1259 1.4.6, Bannerlord v1.4.8, Coop v0.1.7 o
 This page is made from [compat/ad1259-mod-compat.json](compat/ad1259-mod-compat.json) and is written
 again on its own whenever a player report is counted.
 
+The AD1259 tools currently support the Bannerlord 1.4.8 stack below. The AD1259 build for Bannerlord 1.5.7 has not been verified with Coop v0.1.8.
+
 The server and every player need exactly the pack mods, in these versions and in this order. The Coodsz
 AD1259 Client Launcher checks them and Get it opens each mod's page.
 
