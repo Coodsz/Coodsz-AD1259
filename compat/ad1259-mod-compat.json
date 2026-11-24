@@ -6,6 +6,7 @@
   "coop": "v0.1.7 or v0.1.6",
   "tested": "2026-10-13",
   "updated": "2026-10-24",
+  "stackNote": "The AD1259 tools currently support the Bannerlord 1.4.8 stack below. The AD1259 build for Bannerlord 1.5.7 has not been verified with Coop v0.1.8.",
   "mods": [
     { "id": "Bannerlord.Harmony", "name": "Harmony", "version": "v2.4.2.248", "workshopId": "2859188632", "tag": "pack", "works": 1, "broken": 0, "lastReport": "2026-11-12" },
     { "id": "Bannerlord.ButterLib", "name": "ButterLib", "version": "v2.12.0", "workshopId": "2859232415", "tag": "pack", "works": 1, "broken": 0, "lastReport": "2026-11-12" },
